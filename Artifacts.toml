@@ -1,0 +1,115 @@
+[[AprilTags]]
+arch = "aarch64"
+git-tree-sha1 = "5a87b86c52cb9e73d6027291e3c64eb4f8686872"
+libc = "glibc"
+os = "linux"
+
+    [[AprilTags.download]]
+    sha256 = "9f7be1a57d37272f497b8fd3864fa9ace8b86b41f7be74c7fa0f638f359fb865"
+    url = "https://github.com/JuliaBinaryWrappers/AprilTags_jll.jl/releases/download/AprilTags-v0.1.0+0/AprilTags.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[AprilTags]]
+arch = "aarch64"
+git-tree-sha1 = "2f22b06e25adb196cdfab722d1caa525c00bc9d3"
+libc = "musl"
+os = "linux"
+
+    [[AprilTags.download]]
+    sha256 = "a8d33a8504b7d044cf129dbf0166cb889d94d7209eb26b88c52a5ab8b04c9f41"
+    url = "https://github.com/JuliaBinaryWrappers/AprilTags_jll.jl/releases/download/AprilTags-v0.1.0+0/AprilTags.v0.1.0.aarch64-linux-musl.tar.gz"
+[[AprilTags]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ee7c8c944aa0852d195b874ac37ae1ec4ae1e58f"
+libc = "glibc"
+os = "linux"
+
+    [[AprilTags.download]]
+    sha256 = "6a9712c7e7406b8c4e6aba1419ce54fa435ca21651e6b58bcecb2be4e11ced08"
+    url = "https://github.com/JuliaBinaryWrappers/AprilTags_jll.jl/releases/download/AprilTags-v0.1.0+0/AprilTags.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[AprilTags]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "36be986c2a5c1e001dcbe6e95563c11b4d3d3534"
+libc = "musl"
+os = "linux"
+
+    [[AprilTags.download]]
+    sha256 = "6d9e4f4792a37fb038734d4659eace309ee6840a65d6a20b0fd6a70588b1acda"
+    url = "https://github.com/JuliaBinaryWrappers/AprilTags_jll.jl/releases/download/AprilTags-v0.1.0+0/AprilTags.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[AprilTags]]
+arch = "i686"
+git-tree-sha1 = "4beec754452a9b1175ed82e2b0be66bb2ea840f2"
+libc = "glibc"
+os = "linux"
+
+    [[AprilTags.download]]
+    sha256 = "39b512d0d0d0cbc42a1e150cafc8b6d4e36e813bc54f1207b617919d6795f949"
+    url = "https://github.com/JuliaBinaryWrappers/AprilTags_jll.jl/releases/download/AprilTags-v0.1.0+0/AprilTags.v0.1.0.i686-linux-gnu.tar.gz"
+[[AprilTags]]
+arch = "i686"
+git-tree-sha1 = "b0af54e970a6032af25296f8ebb503d4a7b900ec"
+libc = "musl"
+os = "linux"
+
+    [[AprilTags.download]]
+    sha256 = "ff503a51294c04b7a26203a505aa2d568365564f11308fcf3fb98adc5debb6ab"
+    url = "https://github.com/JuliaBinaryWrappers/AprilTags_jll.jl/releases/download/AprilTags-v0.1.0+0/AprilTags.v0.1.0.i686-linux-musl.tar.gz"
+[[AprilTags]]
+arch = "i686"
+git-tree-sha1 = "84a6df370780e78e4557bf1d445b253d19dbd7d3"
+os = "windows"
+
+    [[AprilTags.download]]
+    sha256 = "8c11b5200ed3737c83a0c12e130a1dc630f15fb9128b5030cf26a30d5516bf74"
+    url = "https://github.com/JuliaBinaryWrappers/AprilTags_jll.jl/releases/download/AprilTags-v0.1.0+0/AprilTags.v0.1.0.i686-w64-mingw32.tar.gz"
+[[AprilTags]]
+arch = "powerpc64le"
+git-tree-sha1 = "ad5dc6d3cae98a58147a07744b18982395cfd6a7"
+libc = "glibc"
+os = "linux"
+
+    [[AprilTags.download]]
+    sha256 = "017073fbc8379c203da5d2c6d895e345fe35542701a71e298b7bd26431efaf02"
+    url = "https://github.com/JuliaBinaryWrappers/AprilTags_jll.jl/releases/download/AprilTags-v0.1.0+0/AprilTags.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[AprilTags]]
+arch = "x86_64"
+git-tree-sha1 = "d57976851336efe8b8344fd30bf4c2fd23688e46"
+os = "macos"
+
+    [[AprilTags.download]]
+    sha256 = "0fb4f8dc12e70009666a280cc7346be1151a42573d70b47b6610b27ba0aeea52"
+    url = "https://github.com/JuliaBinaryWrappers/AprilTags_jll.jl/releases/download/AprilTags-v0.1.0+0/AprilTags.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[AprilTags]]
+arch = "x86_64"
+git-tree-sha1 = "d5c0d8b9af056995a61b689d24a9dd336572fe93"
+libc = "glibc"
+os = "linux"
+
+    [[AprilTags.download]]
+    sha256 = "ae3310a186f0855ab7d9bd14d91dc129305f7effc30bfeaf3d9f8cb1f18bb697"
+    url = "https://github.com/JuliaBinaryWrappers/AprilTags_jll.jl/releases/download/AprilTags-v0.1.0+0/AprilTags.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[AprilTags]]
+arch = "x86_64"
+git-tree-sha1 = "6d481be236605c6f5dc480f39eb7088e3f17f7b8"
+libc = "musl"
+os = "linux"
+
+    [[AprilTags.download]]
+    sha256 = "e4bcf407af1fe8bde42aa681dd23fd7b75570f1584d81f3a0591f409508a4e43"
+    url = "https://github.com/JuliaBinaryWrappers/AprilTags_jll.jl/releases/download/AprilTags-v0.1.0+0/AprilTags.v0.1.0.x86_64-linux-musl.tar.gz"
+[[AprilTags]]
+arch = "x86_64"
+git-tree-sha1 = "9ea84a82c89114ea8540a17de02bca4f47f200a8"
+os = "freebsd"
+
+    [[AprilTags.download]]
+    sha256 = "d907cbc6e9f46113a5c2972d15f760acba2d67a058f29341a8e275ee7209a30a"
+    url = "https://github.com/JuliaBinaryWrappers/AprilTags_jll.jl/releases/download/AprilTags-v0.1.0+0/AprilTags.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[AprilTags]]
+arch = "x86_64"
+git-tree-sha1 = "18b65ff3d472a3c449b5e1f8cf74a92541ff4283"
+os = "windows"
+
+    [[AprilTags.download]]
+    sha256 = "65328572ea22b46577353126cc8736a48b52680cdc1027d0d203a95bb1d25ec1"
+    url = "https://github.com/JuliaBinaryWrappers/AprilTags_jll.jl/releases/download/AprilTags-v0.1.0+0/AprilTags.v0.1.0.x86_64-w64-mingw32.tar.gz"
